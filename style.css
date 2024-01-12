@@ -1,0 +1,13 @@
+body{
+    background-color: dimgray hover;
+}
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 60%;
+}
+img:hover{
+    border-radius: 50px;
+    box-shadow: 15px 20px 20px;
+    margin bottom: 10px;
+}
